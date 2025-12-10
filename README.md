@@ -125,9 +125,9 @@ npm run preview
 
 ---
 
-## 📜 License
-
-MIT License © 2025 Maliha Bathool C
+##📜 License
+This project is licensed under the MIT License.  
+© 2025 Maliha Bathool C
 
 ---
 
